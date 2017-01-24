@@ -1,2 +1,2 @@
 # Assignment 1: DrawSVG
-<http://462cmu.github.io/asst1_drawsvg/>
+<https://15462-s17.github.io/asst1_drawsvg/>
